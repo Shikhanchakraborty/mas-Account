@@ -1,0 +1,65 @@
+body{
+    padding: 100px;
+}
+
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+#container1{
+    display: none;
+}
+.gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 250px;
+    padding: 20px;
+}
+.margin1{
+    margin-top: 50px;
+}
+.another{
+    margin-top: 50px;
+}
+#container2{
+    display: none;
+}
+
+#container3{
+    display: none;
+}
+
+#container4{
+    display: none;
+}
+#container5{
+    display: none;
+}
+#container6{
+    display: none;
+}
+
+
+#container7{
+    display: none;
+}
+
+#container8{
+    display: none;
+}
+
+#container9{
+    display: none;
+}
+
+#container10{
+    display: none;
+}
+
+#container11{
+    display: none;
+}
